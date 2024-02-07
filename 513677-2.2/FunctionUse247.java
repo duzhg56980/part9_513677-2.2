@@ -1,0 +1,7 @@
+import org.apache.commons.configuration2.PropertiesConfigurationLayout;
+public class FunctionUse247 {
+public void funcUse() {
+PropertiesConfigurationLayout propertiesconfigurationlayout = new PropertiesConfigurationLayout();
+propertiesconfigurationlayout.isForceSingleLine();
+}
+}
